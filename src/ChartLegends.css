@@ -1,0 +1,14 @@
+.chart-legends {
+    display: flex;
+    align-items: center;
+    margin: 0 1rem;
+}
+
+.chart-legends__box {
+    width: 25px;
+    height: 25px;
+}
+
+.chart-legends__text {
+    margin-left: 0.5rem;
+}
